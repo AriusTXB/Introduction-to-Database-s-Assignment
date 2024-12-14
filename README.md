@@ -17,21 +17,21 @@
   
   In this project, we focused on creating a database system that meets Spotify's core business requirements:
   
-    **-User Management** 👤: Store and manage user profiles and preferences.
+  **-User Management** 👤: Store and manage user profiles and preferences.
     
-    **-Song Management** 🎶: Organize song metadata, artists, and albums.
+  **-Song Management** 🎶: Organize song metadata, artists, and albums.
     
-    **-Playlist Management** 📂: Enable personalized playlists for users.
+  **-Playlist Management** 📂: Enable personalized playlists for users.
     
-    **-Personalized Recommendations** 🤖: Simulate song recommendations based on user preferences.
+  **-Personalized Recommendations** 🤖: Simulate song recommendations based on user preferences.
     
 🌍 **Why Spotify?**
   
-  -Spotify is a leading music streaming platform with over 500 million monthly users worldwide.
+    -Spotify is a leading music streaming platform with over 500 million monthly users worldwide.
   
-  -It functions as a massive data system, handling billions of records related to songs, users, and artists.
+    -It functions as a massive data system, handling billions of records related to songs, users, and artists.
   
-  -Spotify’s success relies heavily on an efficient database system for storage, management, and analysis of music-related data.
+    -Spotify’s success relies heavily on an efficient database system for storage, management, and analysis of music-related data.
 
 🎯 **Goals of the Project**
   
@@ -45,33 +45,37 @@
 
 📋 **Key Deliverables**
   
-  -Data Model 🗺️: A well-designed ERD (Entity-Relationship Diagram) to represent Spotify's database structure.
+    -Data Model 🗺️: A well-designed ERD (Entity-Relationship Diagram) to represent Spotify's database structure.
   
-  -Database Implementation 🛠️: A fully functional MySQL database with tables and relationships.
+    -Database Implementation 🛠️: A fully functional MySQL database with tables and relationships.
   
-  -SQL Queries 📄: Sample queries to demonstrate functionality, including:
+    -SQL Queries 📄: Sample queries to demonstrate functionality, including:
   
-  -User registration and profile updates.
+    -User registration and profile updates.
   
-  -Song and playlist management.
+    -Song and playlist management.
   
-  -Generating personalized song recommendations.
+    -Generating personalized song recommendations.
   
-  -Performance Optimization 🚀: Ensuring scalability and efficiency for handling large datasets.
+    -Performance Optimization 🚀: Ensuring scalability and efficiency for handling large datasets.
 
 🚀 **Technology Stack**
  
-  -Database Management System: MySQL
+    -Database Management System: MySQL
   
-  -Modeling Tool: ERD tools ( Draw.io)
+    -Modeling Tool: ERD tools ( Draw.io)
   
-  -Development Environment: SQL and command-line tools
+    -Development Environment: SQL and command-line tools
 
 📈 **What We Learned**
-  -Designing scientific and structured databases for large-scale systems.
-  -Using SQL for complex queries and real-world data operations.
-  -Optimizing databases for performance and scalability.
-  -Bridging the gap between theory and practice in database design.
+    
+    -Designing scientific and structured databases for large-scale systems.
+  
+    -Using SQL for complex queries and real-world data operations.
+  
+    -Optimizing databases for performance and scalability.
+  
+    -Bridging the gap between theory and practice in database design.
 
 📂 **Folder Structure  **
   
@@ -89,11 +93,11 @@
  
  **Team Members:**
 
-    Member 1: 🎓 **Bao X. Tran**
+  Member 1: 🎓 **Bao X. Tran**
 
-    Member 2: 🎓 **Dung H. Phan**
+  Member 2: 🎓 **Dung H. Phan**
 
-    Member 3: 🎓 **Huy X. Ha**
+  Member 3: 🎓 **Huy X. Ha**
 
 **📝 Acknowledgments**
  
