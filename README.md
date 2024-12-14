@@ -83,7 +83,21 @@
 
 ├── ERD/                 # Entity-Relationship Diagram files
 
-├── SQL/                 # SQL scripts for table creation, queries, and testing
+├── Final SQL/           # SQL scripts for table creation, queries, and testing
+
+├── Constraints/         # SQL scripts for adding constraints
+
+├── Create DB/           # SQL scripts for table creation
+
+├── Insert/              # SQL scripts for insertion 
+
+├── Procedure/           # SQL scripts for procedure
+
+├── Queries/             # SQL scripts for quereies
+
+├── Transaction/         # SQL scripts for transactions
+
+├── Trigger/             # SQL scripts for triggers
 
 ├── README.md            # Project documentation
 
