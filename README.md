@@ -1,5 +1,6 @@
 
 **🎵 Database Project: Spotify Simulation**
+
 **📚 Overview**
   This project is part of the Database Foundations course, designed to help students apply their knowledge to build a complete database management system. The objective is to simulate a database system for Spotify, a globally popular online music streaming platform.
   Our team worked on this project to:
